@@ -1,23 +1,14 @@
-## Olá, sou o Alexandre Santos 💻 🔎 🕵🏾‍♂️
-
-   ## Sobre mim 🦝
-  "Sou Alexandre Santos, profissional com mais de 10 anos de atuação na área de Segurança da Informação. Tenho forte experiência em projetos de conformidade com normas como PCI DSS, ISO 27001, ISO 27005 e ISO 31000, além de atuação direta com frameworks como NIST, COBIT, ITIL e SCRUM.
-Nos últimos anos, atuei como consultor de segurança em empresas como a HITSS e a Cipher, sendo responsável por auditorias, análises de riscos, elaboração de planos de continuidade (BCP/DRP), implementação de controles de segurança, gestão de vulnerabilidades, e condução de assessments técnicos e operacionais.
-Tenho experiência com Pentest, análise de OWASP Top 10, uso de ferramentas como Kali Linux, Nmap, Metasploit, e conhecimento em criptografia, hardening de sistemas e ambientes Linux.
-Além da parte técnica, também atuei com liderança de times, documentação de políticas e procedimentos, e conscientização em segurança da informação com outras áreas da empresa.
-Sou pós-graduado em Computação Forense, tenho certificações em cibersegurança e ética hacker, e estou sempre buscando unir visão técnica e estratégica para fortalecer a maturidade em segurança das organizações."
-
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="https://i.imgur.com/d9PuG5h.jpeg"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/allexandresantos-01sec" target="_blank">
+  <a href="https://www.linkedin.com/in/allexandresantos-01sec/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="wa.me/+5511984833144" target="_blank">
+  <a href="http://wa.me/5511984833144" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
@@ -30,79 +21,59 @@ Sou pós-graduado em Computação Forense, tenho certificações em ciberseguran
 
 ###
 
-<h1 align="center">Olá, venham conhecer melhor o Alexandre Santos 🕵🏾‍♂️🔎💻</h1>
+<h1 align="center">Olá! Sejam bem vindo 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim 🕵🏾‍♂️🔎💻</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Profissional com ampla experiência em Segurança da Informação, atuando com foco em Governança de TI, Gestão de Projetos e Liderança de Equipes. Especialista em PCI DSS, LGPD, GDPR, gestão de riscos e incidentes, e continuidade de negócios (BCP/DRP).<br>Conhecimento sólido em ISO 27001, ISO 27005, NIST, ITIL, COBIT e SCRUM. Atuação prática com Pentest, OWASP, criptografia e treinamentos de conscientização em segurança. Entusiasta de DevSecOps, Forense Digital e Auditorias de Conformidade, com forte presença em eventos e iniciativas de capacitação.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🧠 Soft Skills</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p align="left">•	Liderança e Gestão de Equipes<br>    Capacidade de liderar times com foco em resultados, promovendo colaboração, engajamento e aplicação de boas práticas.<br>•	Comunicação Eficiente<br>Habilidade em ministrar treinamentos, disseminar conhecimento técnico e alinhar diretrizes estratégicas com clareza para diversas áreas da empresa.<br>•	Pensamento Estratégico<br>Visão ampla para estruturar iniciativas de Segurança da Informação alinhadas aos objetivos de negócio e conformidade regulatória.<br>•	Tomada de Decisão sob Pressão<br>Atuação eficaz em cenários críticos de incidentes e riscos, com respostas rápidas e assertivas.<br>•	Capacidade de Análise e Resolução de Problemas<br>Forte competência em diagnosticar vulnerabilidades, propor soluções técnicas e mitigar riscos com base em normas internacionais.<br>•	Didática e Conscientização<br>Aptidão para desenvolver ações de conscientização em segurança, promovendo a cultura organizacional e o comportamento seguro.<br>•	Abertura para Aprendizado Contínuo<br>Participação ativa em workshops, palestras e eventos, mantendo-se atualizado nas melhores práticas do mercado.<br>•	Colaboração Multidisciplinar<br>Facilidade em atuar junto a diferentes áreas e perfis profissionais, promovendo integração e alinhamento de objetivos.</p>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="left">🛠️ Hard Skills</p>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=allexandresantos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left">•	Segurança da Informação:<br>Implementação de políticas, controles e práticas baseadas em normas como ISO/IEC 27001, 27005, 31000.<br>•	Governança de TI:<br>Atuação com frameworks como COBIT, ITIL, promovendo alinhamento estratégico entre tecnologia e negócio.<br>•	Gestão de Riscos e Incidentes:<br>Análise, resposta e mitigação de riscos, com foco em continuidade do negócio (BCP, DRP, PCN, PRD).<br>•	Conformidade e Regulamentações:<br>Expertise em PCI DSS, LGPD, GDPR e Auditorias de Conformidade.<br>•	Frameworks e Metodologias:<br>Aplicação prática de SCRUM, DevSecOps e NIST Cybersecurity Framework.<br>•	Criptografia e Testes de Segurança:<br>Conhecimento técnico em OWASP, Pentest e uso de ferramentas de segurança ofensiva e defensiva.<br>•	Forense Digital:<br>Aplicação de técnicas investigativas e preservação de evidências digitais em ambientes corporativos.<br>•	Consultoria Técnica e Treinamentos:<br>Elaboração e condução de treinamentos de conscientização em Segurança da Informação, promovendo cultura de segurança.</p>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+<p align="left">Principais Projetos🎯🪄</p>
 
 ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-💻🔎
+<p align="left">Migração cliente da Oi para a Claro Br<br>Participação como ponto focal do time de Segurança da Informação para a migração de 11 milhões de clientes, garantindo que todos os controles de segurança foram realizados e todos os processos testados garantindo que nenhum incidente fosse identificado durante a migração.<br><br>Atuando como ponto focal determinando a estratégia da migração, aplicando controles de segurança, validando as entregas, e realizando processos de Pentest em todos os desenvolvimentos realizados.</p>
+
+###
+
+<p align="left">Banco Digital Claro Pay<br>Participação da criação do estrutura, parte de políticas e alinhamentos com times internos garantindo que todos os principais pontos de segurança da informação fossem aplicados garantindo segurança aos clientes.</p>
+
+###
+
+<p align="left">Projeto Disaster Recovery<br>Projeto implementado no Grupo TIM Brasil.<br>Implantação de ambiente de DR, processos e procedimentos a serem adotados em caso de crise.</p>
+
+###
+
+<p align="left">💢 Auditorias e Certificações</p>
+
+###
+
+<p align="left">Lojas Renner - PCI DSS<br>GOL - PCI DSS<br>Callink - PCI DSS</p>
+
+###
